@@ -2,6 +2,10 @@ const git = require("./lib/github")
 const app = require("express")()
 const bodyParser = require("body-parser")
 
+app.get("/", (req, res) => {
+  res.redirect("https://github.com/ernestoyoofi/shlink")
+})
+
 app.get("/:id", (req, res) => {
   const qrw = req.params.id
   git.getShaFile().then(z => {
