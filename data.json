@@ -8,11 +8,15 @@
     "url": "https://youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
-    "id": "whatsapp",
+    "id": "wa",
     "url": "https://chat.whatsapp.com/ITsYqcYFQTS901DhnLMPzx"
   },
   {
-    "id": "discord",
+    "id": "wa-2",
+    "url": "https://chat.whatsapp.com/IlTnsTqEgnxBJxask5ZUJh"
+  },
+  {
+    "id": "dc",
     "url": "https://discord.com/invite/hPRkajUW6e"
   },
   {
